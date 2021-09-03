@@ -21,11 +21,6 @@ header {
   position: relative;
 }
 
-.social i {
-  display: inline-block;
-  margin-left: 20px
-}
-
 header .heading {
   font-size: 32px;
 }
